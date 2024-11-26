@@ -55,7 +55,7 @@ tenacity==9.0.0
 toml==0.10.2
 torch==2.4.1
 torchvision==0.19.1
-tornado==6.4.1
+tornado==6.4.2
 tqdm==4.66.5
 typing_extensions==4.12.2
 tzdata==2024.2
